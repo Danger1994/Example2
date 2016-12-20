@@ -57,9 +57,9 @@ namespace IntegralWinForms
             rtbLog.AppendText("Ответ: " + result.ToString() + Environment.NewLine);
             rtbLog.AppendText("Время: " + time.ToString() + Environment.NewLine);
 
-            rtbLog.AppendText("Parallel Threads вар" + Environment.NewLine);
-            rtbLog.AppendText("Ответ: " + result1.ToString() + Environment.NewLine);
-            rtbLog.AppendText("Время: " + time3[0].ToString() + Environment.NewLine);            
+            //rtbLog.AppendText("Parallel Threads вар" + Environment.NewLine);
+            //rtbLog.AppendText("Ответ: " + result1.ToString() + Environment.NewLine);
+            //rtbLog.AppendText("Время: " + time3[0].ToString() + Environment.NewLine);            
 
             rtbLog.AppendText("Parallel For вар" + Environment.NewLine);
             rtbLog.AppendText("Ответ: " + result2.ToString() + Environment.NewLine);
