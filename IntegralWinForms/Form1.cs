@@ -53,15 +53,15 @@ namespace IntegralWinForms
             double result2 = aInt.RectangleForParralel(out time2);
             double result3 = aInt.RectangleTaskParralel(out time8);
 
-            rtbLog.AppendText("Последовательный вар" + Environment.NewLine);
+            rtbLog.AppendText("Последовательный вариант" + Environment.NewLine);
             rtbLog.AppendText("Ответ: " + result.ToString() + Environment.NewLine);
             rtbLog.AppendText("Время: " + time.ToString() + Environment.NewLine);
 
-            rtbLog.AppendText("Parallel Threads вар" + Environment.NewLine);
+            rtbLog.AppendText("Parallel Threads вариант" + Environment.NewLine);
             rtbLog.AppendText("Ответ: " + result1.ToString() + Environment.NewLine);
             rtbLog.AppendText("Время: " + time3[0].ToString() + Environment.NewLine);            
 
-            rtbLog.AppendText("Parallel For вар" + Environment.NewLine);
+            rtbLog.AppendText("Parallel For вариант" + Environment.NewLine);
             rtbLog.AppendText("Ответ: " + result2.ToString() + Environment.NewLine);
             rtbLog.AppendText("Время: " + time2.ToString() + Environment.NewLine);
 
