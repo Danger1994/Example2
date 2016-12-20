@@ -1,0 +1,27 @@
+D:\Projects\integral\Новая папка\integral-charts\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+D:\Projects\integral\Новая папка\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+D:\Projects\integral\Новая папка\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+D:\Projects\integral\Новая папка\integral-charts\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+D:\Projects\integral\Новая папка\integral-charts\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+D:\Projects\integral\Новая папка\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+D:\Projects\integral\Новая папка\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+D:\Projects\integral\Новая папка\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+D:\Projects\integral\Новая папка\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+D:\Projects\git\integral-chart\integral-charts\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+D:\Projects\git\integral-chart\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+D:\Projects\git\integral-chart\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+D:\Projects\git\integral-chart\integral-charts\IntegralWinForms\bin\Debug\IntegralWinForms.exe
+D:\Projects\git\integral-chart\integral-charts\IntegralWinForms\bin\Debug\IntegralWinForms.pdb
+D:\Projects\git\integral-chart\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.csprojResolveAssemblyReference.cache
+D:\Projects\git\integral-chart\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.Form1.resources
+D:\Projects\git\integral-chart\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.Properties.Resources.resources
+D:\Projects\git\integral-chart\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.csproj.GenerateResource.Cache
+Y:\Kapitonov Andrey\All branches\integral-chart-master\integral-chart-master\integral-charts\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+Y:\Kapitonov Andrey\All branches\integral-chart-master\integral-chart-master\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+Y:\Kapitonov Andrey\All branches\integral-chart-master\integral-chart-master\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+E:\ivtf1g46m\integral-charts\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+E:\ivtf1g46m\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+E:\ivtf1g46m\integral-charts\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
+H:\integral-charts\Example2\IntegralWinForms\bin\Debug\IntegralWinForms.exe.config
+H:\integral-charts\Example2\IntegralWinForms\obj\Debug\IntegralWinForms.exe
+H:\integral-charts\Example2\IntegralWinForms\obj\Debug\IntegralWinForms.pdb
